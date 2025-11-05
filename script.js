@@ -122,13 +122,6 @@ function playGameOverSound () {
 
 
 
-/*------------------------------------
-OPGAVE 6 
-LAV DODGER OM TIL PACMAN
---------------------------------------*/
-
-
-
 
 
 
