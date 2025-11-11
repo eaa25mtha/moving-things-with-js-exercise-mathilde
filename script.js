@@ -18,7 +18,7 @@ function moveDodgerLeft() {
     if (left > 0) {
         dodger.style.left = `${left - 20}px`;
         playSoundOnMovement();
-    }
+    } 
 
     if (left == 0){
         playGameOverSound();
